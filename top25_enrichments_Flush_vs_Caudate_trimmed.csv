@@ -1,0 +1,179 @@
+term_name,intersection_size,p_value,type,condition,-log(p)
+Adaptive Immune System,34,0.004469153,CD3abTcells,Flush,2.349774815
+Adaptive Immune System,32,0.000914442,NK-likecells,Flush,3.038843989
+Antigen processing and presentation,9,4.05E-08,gdTcells1,Flush,7.392627259
+Autophagy,9,5.09E-06,gdTcells1,Flush,5.293700866
+Autophagy,4,0.000328313,gdTcells2,Flush,3.483711291
+Autophagy,6,0.000146881,InflamatoryMacrophages,Flush,3.833034365
+"Cell Cycle, Mitotic",9,0.008450495,gdTcells2,Caudate,2.073117858
+Cellular response to heat stress,5,0.000811751,InflamatoryMacrophages,Flush,3.090577261
+Cellular responses to stress,19,0.000102763,CD3abTcells,Flush,3.988163182
+Cellular responses to stress,32,3.93E-05,InflamatoryMacrophages,Flush,4.405834847
+Cellular responses to stress,26,0.000105072,NK-likecells,Flush,3.978513088
+Coagulation cascades,10,6.20E-07,Hepatocyte,Flush,6.20786422
+Complement cascade,4,0.001577269,InflamatoryMacrophages,Caudate,2.80209423
+Cytokine Signaling,34,4.47E-05,CD3abTcells,Flush,4.349741724
+Cytokine Signaling,48,0.001324339,Hepatocyte,Flush,2.878000972
+Cytokine Signaling,38,6.95E-09,InflamatoryMacrophages,Flush,8.158074516
+Telomere Stress Induced Senescence,7,5.41E-05,gdTcells2,Caudate,4.266774104
+Endocytosis,14,0.000691794,NK-likecells,Flush,3.160022939
+FLT3 Signaling,10,0.000760087,NK-likecells,Flush,3.119136582
+Fluid shear stress and atherosclerosis,8,0.000116679,gdTcells1,Flush,3.933007917
+Fluid shear stress and atherosclerosis,8,3.60E-06,InflamatoryMacrophages,Flush,5.444258155
+HDACs deacetylate histones,6,0.000272237,gdTcells2,Caudate,3.565053593
+Innate Immune System,32,4.47E-05,CD3abTcells,Flush,4.349741724
+Innate Immune System,61,4.71E-07,gdTcells2,Flush,6.326550948
+Innate Immune System,123,2.64E-11,Hepatocyte,Flush,10.57862256
+Innate Immune System,62,2.41E-12,InflamatoryMacrophages,Flush,11.61725894
+Innate Immune System,39,0.000186623,NK-likecells,Flush,3.72903452
+MAPK family signaling cascades,11,0.000521353,NK-likecells,Flush,3.282867736
+Metabolism,220,8.77E-29,Hepatocyte,Flush,28.05706151
+Mitotic Prophase,6,0.000840611,gdTcells2,Caudate,3.075404771
+NF-kappa B signaling pathway,8,0.000150092,InflamatoryMacrophages,Flush,3.823643085
+NOD-like receptor signaling pathway,9,3.60E-06,InflamatoryMacrophages,Flush,5.444258155
+Phagosome,11,1.27E-06,gdTcells1,Flush,5.897739997
+Phagosome,13,1.34E-06,gdTcells2,Flush,5.873831964
+Complement cascade,4,0.001577269,InflamatoryMacrophages,Caudate,2.802094232
+Complement cascade,5,0.018773612,CD3abTcells,Caudate,1.726452162
+Signaling by Interleukins,17,4.99E-06,gdTcells1,Flush,5.301794688
+Signaling by Interleukins,15,0.000467478,NK-likecells,Flush,3.330238675
+Signaling by Interleukins,26,1.12E-06,InflamatoryMacrophages,Flush,5.950482873
+Signaling by Interleukins,15,0.000653025,CD3abTcells,Flush,3.185070454
+Steroid hormone biosynthesis,5,5.52E-05,Hepatocyte,Flush,4.257668935
+Th17 cell differentiation,5,0.000995086,InflamatoryMacrophages,Flush,3.002139232
+TNF signaling pathway,6,0.001738225,CD3abTcells,Flush,2.759894063
+Toll-like Receptor Cascades,8,0.000102651,gdTcells1,Flush,3.988636867
+Toll-like Receptor Cascades,7,0.000810905,gdTcells2,Flush,3.091030146
+Toll-like Receptor Cascades,4,0.017091303,InflamatoryMacrophages,Caudate,1.767224821
+Hemostasis,23,0.021540414,CD3abTcells,Flush,1.666745954
+Hemostasis,16,0.003987458,gdTcells2,Flush,2.399303878
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

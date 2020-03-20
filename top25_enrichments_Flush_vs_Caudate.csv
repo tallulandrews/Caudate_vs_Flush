@@ -1,0 +1,184 @@
+term_name,intersection_size,p_value,type,condition
+Chaperone Mediated Autophagy,9,4.66E-12,gdTcells1,Flush
+Salmonella infection,14,4.05E-08,gdTcells1,Flush
+Antigen processing and presentation,9,4.05E-08,gdTcells1,Flush
+Viral myocarditis,7,5.66E-08,gdTcells1,Flush
+Antigen processing-Cross presentation,11,6.26E-07,gdTcells1,Flush
+Phagosome,11,1.27E-06,gdTcells1,Flush
+Endosomal/Vacuolar pathway,4,1.29E-06,gdTcells1,Flush
+Signaling by Interleukins,17,4.99E-06,gdTcells1,Flush
+Autophagy,9,5.09E-06,gdTcells1,Flush
+Interleukin-4 and Interleukin-13 signaling,9,8.36E-06,gdTcells1,Flush
+Regulation of actin dynamics for phagocytic cup formation,9,1.51E-05,gdTcells1,Flush
+Human T-cell leukemia virus 1 infection,8,1.51E-05,gdTcells1,Flush
+Regulation of actin cytoskeleton,11,1.51E-05,gdTcells1,Flush
+EPH-Ephrin signaling,7,2.85E-05,gdTcells1,Flush
+EPHB-mediated forward signaling,5,2.88E-05,gdTcells1,Flush
+Axon guidance,17,4.15E-05,gdTcells1,Flush
+Fcgamma receptor (FCGR) dependent phagocytosis,9,4.40E-05,gdTcells1,Flush
+Toll Like Receptor 4 (TLR4) Cascade,8,5.00E-05,gdTcells1,Flush
+RHO GTPases Activate WASPs and WAVEs,4,6.60E-05,gdTcells1,Flush
+Clathrin-mediated endocytosis,8,7.35E-05,gdTcells1,Flush
+Human immunodeficiency virus 1 infection,10,7.70E-05,gdTcells1,Flush
+Allograft rejection,4,9.01E-05,gdTcells1,Flush
+Toll-like Receptor Cascades,8,0.000102651,gdTcells1,Flush
+Graft-versus-host disease,4,0.000103528,gdTcells1,Flush
+Fluid shear stress and atherosclerosis,8,0.000116679,gdTcells1,Flush
+Salmonella infection,13,7.50E-05,NK-likecells,Flush
+Cellular responses to stress,26,0.000105072,NK-likecells,Flush
+Cellular responses to external stimuli,26,0.00012444,NK-likecells,Flush
+Innate Immune System,39,0.000186623,NK-likecells,Flush
+Neutrophil degranulation,23,0.000201722,NK-likecells,Flush
+Interleukin-4 and Interleukin-13 signaling,5,0.000211103,NK-likecells,Flush
+Protein methylation,3,0.000268065,NK-likecells,Flush
+Vesicle-mediated transport,22,0.000419282,NK-likecells,Flush
+Signaling by Interleukins,15,0.000467478,NK-likecells,Flush
+Axon guidance,18,0.000467478,NK-likecells,Flush
+Formation of annular gap junctions,2,0.000517209,NK-likecells,Flush
+MAPK family signaling cascades,11,0.000521353,NK-likecells,Flush
+Gap junction degradation,2,0.000580815,NK-likecells,Flush
+RAF/MAP kinase cascade,10,0.000591184,NK-likecells,Flush
+MAPK1/MAPK3 signaling,10,0.000622329,NK-likecells,Flush
+Endocytosis,14,0.000691794,NK-likecells,Flush
+FLT3 Signaling,10,0.000760087,NK-likecells,Flush
+Cell-extracellular matrix interactions,2,0.000809476,NK-likecells,Flush
+Shigellosis,13,0.000845884,NK-likecells,Flush
+Pathogenic Escherichia coli infection,12,0.000845884,NK-likecells,Flush
+Adaptive Immune System,32,0.000914442,NK-likecells,Flush
+Yersinia infection,4,0.001411893,NK-likecells,Flush
+Interaction between L1 and Ankyrins,2,0.001675027,NK-likecells,Flush
+RHO GTPases activate IQGAPs,2,0.001710977,NK-likecells,Flush
+Adherens junctions interactions,2,0.001710977,NK-likecells,Flush
+Metabolism,220,8.77E-29,Hepatocyte,Flush
+Neutrophil degranulation,70,7.89E-12,Hepatocyte,Flush
+Innate Immune System,123,2.64E-11,Hepatocyte,Flush
+Metabolic pathways,125,4.68E-08,Hepatocyte,Flush
+Metabolism of lipids,73,2.74E-07,Hepatocyte,Flush
+Complement and coagulation cascades,10,6.20E-07,Hepatocyte,Flush
+Steroid hormone biosynthesis,5,5.52E-05,Hepatocyte,Flush
+Signaling by BRAF and RAF fusions,4,0.000372378,Hepatocyte,Flush
+Oncogenic MAPK signaling,4,0.000486044,Hepatocyte,Flush
+Formation of annular gap junctions,2,0.001093288,Hepatocyte,Flush
+Gap junction degradation,2,0.001269878,Hepatocyte,Flush
+Cytokine Signaling in Immune system,48,0.001324339,Hepatocyte,Flush
+Cell-extracellular matrix interactions,2,0.002676625,Hepatocyte,Flush
+Immune System,71,0.003546661,Hepatocyte,Flush
+Disease,84,0.004592696,Hepatocyte,Flush
+Interaction between L1 and Ankyrins,2,0.006941982,Hepatocyte,Flush
+RHO GTPases activate IQGAPs,2,0.007191403,Hepatocyte,Flush
+Adherens junctions interactions,2,0.007191403,Hepatocyte,Flush
+Metabolism of proteins,147,0.007395754,Hepatocyte,Flush
+RHO GTPases Activate WASPs and WAVEs,2,0.008431878,Hepatocyte,Flush
+L1CAM interactions,3,0.01329909,Hepatocyte,Flush
+Recycling pathway of L1,2,0.014222821,Hepatocyte,Flush
+Gap junction trafficking,2,0.014627668,Hepatocyte,Flush
+EPH-ephrin mediated repulsion of cells,2,0.014627668,Hepatocyte,Flush
+Gap junction trafficking and regulation,2,0.014883272,Hepatocyte,Flush
+Neutrophil degranulation,52,3.12E-13,InflamatoryMacrophages,Flush
+Immune System,127,8.40E-13,InflamatoryMacrophages,Flush
+Innate Immune System,62,2.41E-12,InflamatoryMacrophages,Flush
+Cytokine Signaling in Immune system,38,6.95E-09,InflamatoryMacrophages,Flush
+Salmonella infection,17,5.38E-07,InflamatoryMacrophages,Flush
+IL-17 signaling pathway,8,5.38E-07,InflamatoryMacrophages,Flush
+Signaling by Interleukins,26,1.12E-06,InflamatoryMacrophages,Flush
+NOD-like receptor signaling pathway,9,3.60E-06,InflamatoryMacrophages,Flush
+Fluid shear stress and atherosclerosis,8,3.60E-06,InflamatoryMacrophages,Flush
+Viral myocarditis,7,1.52E-05,InflamatoryMacrophages,Flush
+Cellular responses to stress,32,3.93E-05,InflamatoryMacrophages,Flush
+Cellular responses to external stimuli,32,6.40E-05,InflamatoryMacrophages,Flush
+Kaposi sarcoma-associated herpesvirus infection,10,0.000125815,InflamatoryMacrophages,Flush
+Autophagy,6,0.000146881,InflamatoryMacrophages,Flush
+HSF1 activation,3,0.000146881,InflamatoryMacrophages,Flush
+NF-kappa B signaling pathway,8,0.000150092,InflamatoryMacrophages,Flush
+Yersinia infection,5,0.000194839,InflamatoryMacrophages,Flush
+Leishmaniasis,5,0.000234167,InflamatoryMacrophages,Flush
+Human cytomegalovirus infection,11,0.00040371,InflamatoryMacrophages,Flush
+Regulation of actin dynamics for phagocytic cup formation,6,0.000577269,InflamatoryMacrophages,Flush
+Malaria,3,0.000675717,InflamatoryMacrophages,Flush
+Influenza A,5,0.000675717,InflamatoryMacrophages,Flush
+Cellular response to heat stress,5,0.000811751,InflamatoryMacrophages,Flush
+Th17 cell differentiation,5,0.000995086,InflamatoryMacrophages,Flush
+Fcgamma receptor (FCGR) dependent phagocytosis,6,0.001298388,InflamatoryMacrophages,Flush
+Neutrophil degranulation,20,3.50E-05,CD3abTcells,Flush
+Cytokine Signaling in Immune system,34,4.47E-05,CD3abTcells,Flush
+Innate Immune System,32,4.47E-05,CD3abTcells,Flush
+Protein methylation,3,7.66E-05,CD3abTcells,Flush
+Cellular responses to stress,19,0.000102763,CD3abTcells,Flush
+Binding and Uptake of Ligands by Scavenger Receptors,7,0.000102763,CD3abTcells,Flush
+Cellular responses to external stimuli,19,0.000128306,CD3abTcells,Flush
+Signaling by Interleukins,15,0.000653025,CD3abTcells,Flush
+TNF signaling pathway,6,0.001738225,CD3abTcells,Flush
+Adaptive Immune System,34,0.004469153,CD3abTcells,Flush
+Salmonella infection,9,0.004731481,CD3abTcells,Flush
+RAF-independent MAPK1/3 activation,2,0.007911711,CD3abTcells,Flush
+TRAF6 mediated NF-kB activation,2,0.00826435,CD3abTcells,Flush
+Vesicle-mediated transport,19,0.009164035,CD3abTcells,Flush
+Metabolism of RNA,18,0.019102253,CD3abTcells,Flush
+Hemostasis,23,0.021540414,CD3abTcells,Flush
+RNA Polymerase II Transcription,28,0.025073041,CD3abTcells,Flush
+Peptide chain elongation,2,0.034794271,CD3abTcells,Flush
+Eukaryotic Translation Elongation,2,0.036442203,CD3abTcells,Flush
+Neutrophil degranulation,33,1.09E-07,gdTcells2,Flush
+Innate Immune System,61,4.71E-07,gdTcells2,Flush
+Phagosome,13,1.34E-06,gdTcells2,Flush
+Viral myocarditis,7,2.42E-06,gdTcells2,Flush
+Interleukin-4 and Interleukin-13 signaling,5,5.78E-05,gdTcells2,Flush
+Protein methylation,3,8.91E-05,gdTcells2,Flush
+Human T-cell leukemia virus 1 infection,9,0.000321868,gdTcells2,Flush
+Late endosomal microautophagy,3,0.000328313,gdTcells2,Flush
+Autophagy,4,0.000328313,gdTcells2,Flush
+Toll-like Receptor Cascades,7,0.000810905,gdTcells2,Flush
+Pathogenic Escherichia coli infection,7,0.001235667,gdTcells2,Flush
+Kaposi sarcoma-associated herpesvirus infection,7,0.001235667,gdTcells2,Flush
+Epstein-Barr virus infection,10,0.001235667,gdTcells2,Flush
+Cellular senescence,8,0.001235667,gdTcells2,Flush
+Legionellosis,3,0.001235667,gdTcells2,Flush
+Toll Like Receptor 4 (TLR4) Cascade,6,0.002042754,gdTcells2,Flush
+Human immunodeficiency virus 1 infection,10,0.002261267,gdTcells2,Flush
+Toll Like Receptor 5 (TLR5) Cascade,3,0.003987458,gdTcells2,Flush
+Toll Like Receptor 10 (TLR10) Cascade,3,0.003987458,gdTcells2,Flush
+TRAF6 mediated NF-kB activation,2,0.003987458,gdTcells2,Flush
+MyD88 cascade initiated on plasma membrane,3,0.003987458,gdTcells2,Flush
+Hemostasis,16,0.003987458,gdTcells2,Flush
+Toll Like Receptor 7/8 (TLR7/8) Cascade,3,0.00435043,gdTcells2,Flush
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,3,0.00435043,gdTcells2,Flush
+MyD88 dependent cascade initiated on endosome,3,0.00435043,gdTcells2,Flush
+Ferroptosis,2,0.016557587,gdTcells1,Caudate
+Plasma lipoprotein assembly,2,0.036254573,NK-likecells,Caudate
+Post-translational protein phosphorylation,3,0.036254573,NK-likecells,Caudate
+Scavenging by Class A Receptors,2,0.036254573,NK-likecells,Caudate
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),3,0.041773625,NK-likecells,Caudate
+Iron uptake and transport,2,0.032534872,Hepatocyte,Caudate
+Ferroptosis,2,0.042603315,Hepatocyte,Caudate
+Initial triggering of complement,4,0.001422944,InflamatoryMacrophages,Caudate
+Alternative complement activation,2,0.001577269,InflamatoryMacrophages,Caudate
+Regulation of TLR by endogenous ligand,3,0.001577269,InflamatoryMacrophages,Caudate
+Complement cascade,4,0.001577269,InflamatoryMacrophages,Caudate
+Activation of C3 and C5,2,0.002522828,InflamatoryMacrophages,Caudate
+Post-translational protein phosphorylation,4,0.007981721,InflamatoryMacrophages,Caudate
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),4,0.012043639,InflamatoryMacrophages,Caudate
+Complement and coagulation cascades,4,0.014367293,InflamatoryMacrophages,Caudate
+Regulation of Complement cascade,3,0.016627171,InflamatoryMacrophages,Caudate
+Toll-like Receptor Cascades,4,0.017091303,InflamatoryMacrophages,Caudate
+Creation of C4 and C2 activators,2,0.040801647,InflamatoryMacrophages,Caudate
+Classical antibody-mediated complement activation,2,0.040801647,InflamatoryMacrophages,Caudate
+Complement and coagulation cascades,5,0.011087021,CD3abTcells,Caudate
+Complement cascade,5,0.018773612,CD3abTcells,Caudate
+Regulation of Complement cascade,5,0.018773612,CD3abTcells,Caudate
+DNA Damage/Telomere Stress Induced Senescence,7,5.41E-05,gdTcells2,Caudate
+RHO GTPases activate PKNs,6,0.000272237,gdTcells2,Caudate
+Telomere Maintenance,6,0.000272237,gdTcells2,Caudate
+HDACs deacetylate histones,6,0.000272237,gdTcells2,Caudate
+Transcriptional regulation by small RNAs,6,0.000344836,gdTcells2,Caudate
+Chromosome Maintenance,6,0.00037611,gdTcells2,Caudate
+Cellular Senescence,7,0.000777205,gdTcells2,Caudate
+Gene Silencing by RNA,6,0.000837397,gdTcells2,Caudate
+Mitotic Prophase,6,0.000840611,gdTcells2,Caudate
+"Cell Cycle, Mitotic",9,0.008450495,gdTcells2,Caudate
+Cellular responses to stress,8,0.015373402,gdTcells2,Caudate
+Chromatin modifying enzymes,6,0.015373402,gdTcells2,Caudate
+Chromatin organization,6,0.015373402,gdTcells2,Caudate
+Cellular responses to external stimuli,8,0.018060987,gdTcells2,Caudate
+Signaling by Nuclear Receptors,6,0.019447511,gdTcells2,Caudate
+RHO GTPase Effectors,6,0.026797552,gdTcells2,Caudate
+Alcoholism,6,0.042388041,gdTcells2,Caudate
